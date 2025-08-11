@@ -1,0 +1,25 @@
+h1{
+    text-decoration: underline;
+}
+.div-class{
+    border: 2px solid rgb(169, 169, 169);
+    width: 300px;
+    height: 300px;
+    font-weight: bold;
+    border-radius: 12% 50%;
+    position: relative;
+    left: 30rem;
+    top: 6rem;
+
+}
+.div-class:hover{
+    cursor: pointer;
+}
+.content{
+    position: relative;
+    text-align: center;
+    top: 3rem;
+}
+body{
+    background-image: linear-gradient(red,black,green,yellow,red);
+}
